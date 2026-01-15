@@ -1,3 +1,6 @@
+### You can watch the result of the project via this link 
+http://146.103.117.133:5175/
+
 # JIHC Clubs Activity Web App
 
 Веб-приложение для управления клубными мероприятиями в JIHC (Jambyl Innovation High College).
