@@ -1,5 +1,5 @@
 ### You can watch the result of the project via this link 
-http://146.103.117.133:5175/
+https://jihclubs.kz
 
 # JIHC Clubs Activity Web App
 
