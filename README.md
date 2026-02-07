@@ -7,6 +7,7 @@ https://jihclubs.kz
 
 ## Технологии
 
+
 ### Backend
 - FastAPI
 - SQLAlchemy
