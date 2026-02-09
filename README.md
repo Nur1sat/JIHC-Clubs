@@ -1,5 +1,4 @@
-### You can watch the result of the project via this link 
-https://jihclubs.kz
+
 
 # JIHC Clubs Activity Web App
 
